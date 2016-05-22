@@ -1,0 +1,37 @@
+ChangeLog
+=========
+
+
+Version 0.9*
+
+	i) Initial Release.
+	
+Version 0.91
+
+	i) Minor Bug Fixes
+	ii) Fixed Font Issues
+	iii) Fixed Screenshot Issues.
+	
+Version 0.92
+
+	i) Bug Fixes.	
+	
+Version 0.93
+
+	i) Fixed PHP Errors.	
+	
+Version 0.94
+
+	i) PHP Bug Fixes.
+	ii) Other Readability Fixes.	
+	
+Version 0.95
+
+	i) Removed config.codekit
+	ii) Fixed Sanitization and Escaping Issues
+	iii) Fixed Slides to Maximum of 3.
+	iv) Other Bug Fixes.	
+	
+Version 1.0
+
+	i) Corrected Upgrade Link.	

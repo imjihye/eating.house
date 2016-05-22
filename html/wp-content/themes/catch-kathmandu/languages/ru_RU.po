@@ -1,0 +1,2071 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Catch Kathmandu\n"
+"POT-Creation-Date: 2016-04-19 20:37+0545\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Sakin Shrestha <info@catchthemes.com>\n"
+"Language-Team: Catch Themes <info@catchthemes.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;esc_attr_e;esc_attr__;"
+"_nx_noop:1,2;_nx:1,2;_n_noop:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:24
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Эта страница не может быть найдена."
+
+#: ../404.php:28
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Похоже, ничего не было найдено по этому адресу. Может стоит попробовать одну "
+"из приведенных ссылок или воспользоваться поиском?"
+
+#: ../404.php:35
+msgid "Most Used Categories"
+msgstr "Самые используемые рубрики"
+
+#. translators: %1$s: smilie
+#: ../404.php:43
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Попробуйте поискать в ежемесячных архивах. %1$s"
+
+#: ../archive.php:23
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Архив рубрики: %s"
+
+#: ../archive.php:26
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Архив меток: %s"
+
+#: ../archive.php:33
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Архив автора: %s"
+
+#: ../archive.php:41
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Архив за день: %s"
+
+#: ../archive.php:44
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Архив за месяц: %s"
+
+#: ../archive.php:47
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Архив за год: %s"
+
+#: ../archive.php:50 ../sidebar.php:36
+msgid "Archives"
+msgstr "Архивы"
+
+#: ../comments.php:33
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%2$s: %1$s комментарий"
+msgstr[1] "%2$s: %1$s комментария"
+msgstr[2] "%2$s: %1$s комментариев"
+
+#: ../comments.php:40 ../comments.php:60
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: ../comments.php:41 ../comments.php:61
+msgid "&larr; Older Comments"
+msgstr "&larr;  Предыдущие комментарии"
+
+#: ../comments.php:42 ../comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr "Следующие комментарии &rarr;"
+
+#: ../comments.php:72
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: ../content-aside.php:21 ../content-audio.php:21 ../content-chat.php:22
+#: ../content-gallery.php:25 ../content-gallery.php:42
+#: ../content-gallery.php:43 ../content-image.php:23 ../content-page.php:18
+#: ../content-single.php:18 ../content-video.php:24 ../content.php:32
+#: ../inc/catchkathmandu-functions.php:501
+#, php-format
+msgid "Permalink to %s"
+msgstr "Постоянная ссылка на %s"
+
+#: ../content-aside.php:27 ../content-audio.php:33 ../content-chat.php:34
+#: ../content-gallery.php:49 ../content-image.php:35 ../content-link.php:30
+#: ../content-page.php:24 ../content-quote.php:26 ../content-single.php:29
+#: ../content-status.php:34 ../content-video.php:36 ../content.php:52
+#: ../image.php:93
+msgid "Pages:"
+msgstr "Страницы"
+
+#: ../content-aside.php:40 ../content-audio.php:46 ../content-chat.php:47
+#: ../content-gallery.php:63 ../content-image.php:48 ../content-link.php:42
+#: ../content-quote.php:38 ../content-single.php:46 ../content-status.php:46
+#: ../content-video.php:49 ../content.php:66
+msgid "Leave a reply"
+msgstr "Ответить"
+
+#: ../content-aside.php:40 ../content-audio.php:46 ../content-chat.php:47
+#: ../content-gallery.php:63 ../content-image.php:48 ../content-link.php:42
+#: ../content-quote.php:38 ../content-single.php:46 ../content-status.php:46
+#: ../content-video.php:49 ../content.php:66
+msgid "1 Reply"
+msgstr "1 ответ"
+
+#: ../content-aside.php:40 ../content-audio.php:46 ../content-chat.php:47
+#: ../content-gallery.php:63 ../content-image.php:48 ../content-link.php:42
+#: ../content-quote.php:38 ../content-status.php:46 ../content-video.php:49
+msgid "% Replies;"
+msgstr "% Комментарии;"
+
+#: ../content-aside.php:42 ../content-audio.php:48 ../content-chat.php:49
+#: ../content-gallery.php:65 ../content-image.php:50 ../content-link.php:44
+#: ../content-page.php:33 ../content-quote.php:40 ../content-single.php:49
+#: ../content-status.php:48 ../content-video.php:51 ../content.php:69
+#: ../image.php:39 ../image.php:112 ../inc/template-tags.php:196
+msgid "Edit"
+msgstr "Изменить"
+
+#: ../content-audio.php:22
+msgid "All Audio Posts"
+msgstr "Все публикации в Аудио"
+
+#: ../content-audio.php:22
+msgid "Audio"
+msgstr "Аудио"
+
+#: ../content-chat.php:23
+msgid "All Chat Posts"
+msgstr "Все Чат публикации"
+
+#: ../content-chat.php:23
+msgid "Chat"
+msgstr "Чат"
+
+#: ../content-gallery.php:26
+msgid "All Gallery Posts"
+msgstr "Все публикации в Галерее"
+
+#: ../content-gallery.php:26
+msgid "Gallery"
+msgstr "Галерея"
+
+#: ../content-gallery.php:43
+#, php-format
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "Эта галерея содержит <a %1$s>%2$s фотографию</a>."
+msgstr[1] "Эта галерея содержит <a %1$s>%2$s фотографии</a>."
+msgstr[2] "Эта галерея содержит <a %1$s>%2$s фотографий</a>."
+
+#: ../content-image.php:24
+msgid "All Image Posts"
+msgstr "Все публикации в Изображениях"
+
+#: ../content-image.php:24 ../inc/panel/customizer/customizer.php:1340
+#: ../inc/panel/theme-options.php:258
+msgid "Image"
+msgstr "Изображение"
+
+#: ../content-link.php:24
+msgid "All Link Posts"
+msgstr "Все публикации в Ссылках"
+
+#: ../content-link.php:24
+msgid "Link"
+msgstr "Ссылка"
+
+#: ../content-single.php:46 ../content.php:66
+msgid "% Replies"
+msgstr "% Комментарии"
+
+#: ../content-single.php:56 ../content.php:76
+#, php-format
+msgid "About %s"
+msgstr "Детали %s"
+
+#: ../content-single.php:60 ../content.php:80
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Посмотреть все записи автора %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../content-status.php:28
+msgid "All Status Posts"
+msgstr "Все публикации в Статусе"
+
+#: ../content-status.php:28
+msgid "Status"
+msgstr "Статус"
+
+#: ../content-video.php:25
+msgid "All Video Posts"
+msgstr "Все публикации в Видео"
+
+#: ../content-video.php:25
+msgid "Video"
+msgstr "Видео"
+
+#: ../content.php:24
+msgid "Featured post"
+msgstr "Избранная публикация"
+
+#: ../functions.php:114 ../inc/catchkathmandu-menus.php:11
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: ../functions.php:115 ../inc/catchkathmandu-menus.php:45
+msgid "Secondary Menu"
+msgstr "Вторичный меню"
+
+#: ../image.php:29
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-"
+"size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s"
+"\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"Опубликованное <span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title="
+"\"Ссылка на полное изображение\">%4$s &times; %5$s</a> in <a href=\"%6$s\" "
+"title=\"Вернуться в %7$s\" rel=\"gallery\">%7$s</a>"
+
+#: ../image.php:43
+msgid "&larr; Previous"
+msgstr "&larr; Назад"
+
+#: ../image.php:44
+msgid "Next &rarr;"
+msgstr "Вперед &rarr;"
+
+#: ../image.php:104
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Добавить комментарий"
+"\">Добавить комментарий</a> или оставить обратную ссылку: <a class="
+"\"trackback-link\" href=\"%s\" title=\"URL обратной ссылки на запись\" rel="
+"\"trackback\">URL обратной ссылки</a>."
+
+#: ../image.php:106
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+"Комментарии отключены, но вы можете оставить обратную ссылку: <a class="
+"\"trackback-link\" href=\"%s\" title=\"URL обратной ссылки на запись\" rel="
+"\"trackback\">URL обратной ссылки</a>."
+
+#: ../image.php:108
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"Обратные ссылки закрыты, но вы можете <a class=\"comment-link\" href="
+"\"#respond\" title=\"Оставить комментарий\">оставить комментарий</a>."
+
+#: ../image.php:110
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Комментарии и обратные ссылки отключены."
+
+#: ../inc/catchkathmandu-functions.php:590
+#: ../inc/catchkathmandu-functions.php:1058
+#: ../inc/catchkathmandu-functions.php:1061 ../searchform.php:18
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../inc/catchkathmandu-functions.php:1575
+#: ../inc/panel/customizer/customizer.php:644
+#: ../inc/panel/theme-options.php:108 ../inc/panel/theme-options.php:1064
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../inc/catchkathmandu-functions.php:1580
+#: ../inc/panel/customizer/customizer.php:654
+#: ../inc/panel/theme-options.php:109 ../inc/panel/theme-options.php:1072
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../inc/catchkathmandu-functions.php:1585
+#: ../inc/panel/customizer/customizer.php:664
+#: ../inc/panel/theme-options.php:1080
+msgid "Google+"
+msgstr "Google+"
+
+#: ../inc/catchkathmandu-functions.php:1590
+#: ../inc/panel/customizer/customizer.php:704
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../inc/catchkathmandu-functions.php:1595
+#: ../inc/panel/customizer/customizer.php:674
+#: ../inc/panel/theme-options.php:1088
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../inc/catchkathmandu-functions.php:1600
+msgid "YouTube"
+msgstr "YouTube"
+
+#: ../inc/catchkathmandu-functions.php:1605
+#: ../inc/panel/customizer/customizer.php:694
+#: ../inc/panel/theme-options.php:1104
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../inc/catchkathmandu-functions.php:1610
+msgid "SlideShare"
+msgstr "SlideShare"
+
+#: ../inc/catchkathmandu-functions.php:1615
+msgid "FourSquare"
+msgstr "FourSquare"
+
+#: ../inc/catchkathmandu-functions.php:1620
+#: ../inc/panel/customizer/customizer.php:734
+#: ../inc/panel/theme-options.php:1136
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../inc/catchkathmandu-functions.php:1625
+#: ../inc/panel/customizer/customizer.php:744
+#: ../inc/panel/theme-options.php:1144
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: ../inc/catchkathmandu-functions.php:1630
+#: ../inc/panel/customizer/customizer.php:754
+#: ../inc/panel/theme-options.php:1152
+msgid "deviantART"
+msgstr "deviantART"
+
+#: ../inc/catchkathmandu-functions.php:1635
+#: ../inc/panel/customizer/customizer.php:764
+#: ../inc/panel/theme-options.php:1160
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: ../inc/catchkathmandu-functions.php:1640
+#: ../inc/panel/customizer/customizer.php:774
+#: ../inc/panel/theme-options.php:1168
+msgid "MySpace"
+msgstr "MySpace"
+
+#: ../inc/catchkathmandu-functions.php:1645
+#: ../inc/panel/customizer/customizer.php:784
+#: ../inc/panel/theme-options.php:1176
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../inc/catchkathmandu-functions.php:1650
+#: ../inc/panel/customizer/customizer.php:794
+#: ../inc/panel/theme-options.php:1184
+msgid "RSS"
+msgstr "RSS"
+
+#: ../inc/catchkathmandu-functions.php:1655
+#: ../inc/panel/customizer/customizer.php:804
+#: ../inc/panel/theme-options.php:1192
+msgid "Delicious"
+msgstr "Delicious"
+
+#: ../inc/catchkathmandu-functions.php:1660
+#: ../inc/panel/customizer/customizer.php:814
+#: ../inc/panel/theme-options.php:1200
+msgid "Last.fm"
+msgstr "Last.fm"
+
+#: ../inc/catchkathmandu-functions.php:1665
+#: ../inc/panel/customizer/customizer.php:824
+#: ../inc/panel/theme-options.php:1208
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../inc/catchkathmandu-functions.php:1670
+#: ../inc/panel/customizer/customizer.php:834
+#: ../inc/panel/theme-options.php:1216
+msgid "GitHub"
+msgstr "GitHub"
+
+#: ../inc/catchkathmandu-functions.php:1675
+#: ../inc/panel/customizer/customizer.php:844
+#: ../inc/panel/theme-options.php:1224
+msgid "Vkontakte"
+msgstr "Vkontakte"
+
+#: ../inc/catchkathmandu-functions.php:1680
+#: ../inc/panel/customizer/customizer.php:854
+#: ../inc/panel/theme-options.php:1232
+msgid "My World"
+msgstr "My World"
+
+#: ../inc/catchkathmandu-functions.php:1685
+#: ../inc/panel/customizer/customizer.php:864
+#: ../inc/panel/theme-options.php:1240
+msgid "Odnoklassniki"
+msgstr "Odnoklassniki"
+
+#: ../inc/catchkathmandu-functions.php:1690
+msgid "GoodReads"
+msgstr "GoodReads"
+
+#: ../inc/catchkathmandu-functions.php:1695
+#: ../inc/panel/customizer/customizer.php:884
+#: ../inc/panel/theme-options.php:1256
+msgid "Skype"
+msgstr "Skype"
+
+#: ../inc/catchkathmandu-functions.php:1700
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: ../inc/catchkathmandu-functions.php:1705
+#: ../inc/panel/customizer/customizer.php:904
+#: ../inc/panel/theme-options.php:1272
+msgid "Email"
+msgstr "Email"
+
+#: ../inc/catchkathmandu-functions.php:1710
+#: ../inc/panel/customizer/customizer.php:914
+#: ../inc/panel/theme-options.php:1280
+msgid "Contact"
+msgstr "Contact"
+
+#: ../inc/catchkathmandu-functions.php:1715
+#: ../inc/panel/customizer/customizer.php:924
+#: ../inc/panel/theme-options.php:1288
+msgid "Xing"
+msgstr "Xing"
+
+#: ../inc/catchkathmandu-functions.php:1720
+#: ../inc/panel/customizer/customizer.php:934
+#: ../inc/panel/theme-options.php:1296
+msgid "Meetup"
+msgstr "Meetup"
+
+#: ../inc/catchkathmandu-functions.php:1815
+msgid "ID"
+msgstr "ID"
+
+#: ../inc/catchkathmandu-functions.php:1839
+#: ../inc/catchkathmandu-functions.php:1852
+msgid "Menu"
+msgstr "Меню"
+
+#: ../inc/catchkathmandu-menus.php:12
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: ../inc/catchkathmandu-metabox.php:14 ../inc/catchkathmandu-metabox.php:20
+msgid "Catch Kathmandu Options"
+msgstr "Catch Kathmandu Options"
+
+#: ../inc/catchkathmandu-metabox.php:34
+msgid "Default"
+msgstr "Default"
+
+#: ../inc/catchkathmandu-metabox.php:39
+msgid "Enable"
+msgstr "Включить"
+
+#: ../inc/catchkathmandu-metabox.php:44
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:193
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:289
+#: ../inc/panel/theme-options.php:575 ../inc/panel/theme-options.php:932
+msgid "Disable"
+msgstr "Отключить"
+
+#: ../inc/catchkathmandu-metabox.php:55 ../inc/catchkathmandu-metabox.php:85
+msgid "Default Layout Set in"
+msgstr "Стандартное расположение задано в"
+
+#: ../inc/catchkathmandu-metabox.php:55 ../inc/catchkathmandu-metabox.php:85
+#: ../inc/panel/customizer/customizer.php:52 ../inc/panel/theme-options.php:44
+#: ../inc/panel/theme-options.php:45 ../inc/panel/theme-options.php:125
+msgid "Theme Options"
+msgstr "Опции темы"
+
+#: ../inc/catchkathmandu-metabox.php:61
+msgid "Right sidebar"
+msgstr "Правая боковая панель"
+
+#: ../inc/catchkathmandu-metabox.php:67
+msgid "Left sidebar"
+msgstr "Левая боковая панель"
+
+#: ../inc/catchkathmandu-metabox.php:73
+msgid "No sidebar"
+msgstr "Без боковой панели"
+
+#: ../inc/catchkathmandu-metabox.php:90
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:209
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:225
+#: ../inc/panel/theme-options.php:593 ../inc/panel/theme-options.php:658
+msgid "Featured Image"
+msgstr "Featured Image"
+
+#: ../inc/catchkathmandu-metabox.php:95
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:207
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:223
+#: ../inc/panel/theme-options.php:585 ../inc/panel/theme-options.php:662
+msgid "Full Image"
+msgstr "Full Image"
+
+#: ../inc/catchkathmandu-metabox.php:100
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:208
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:224
+#: ../inc/panel/theme-options.php:589 ../inc/panel/theme-options.php:666
+msgid "Slider Image"
+msgstr "Slider Image"
+
+#: ../inc/catchkathmandu-metabox.php:105
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:226
+#: ../inc/panel/theme-options.php:670
+msgid "Disable Image"
+msgstr "Disable Image"
+
+#: ../inc/catchkathmandu-metabox.php:122
+msgid "Sidebar Layout"
+msgstr "Sidebar Layout"
+
+#: ../inc/catchkathmandu-metabox.php:152 ../inc/panel/theme-options.php:526
+msgid "Header Featured Image Options"
+msgstr "Header Featured Image Options"
+
+#: ../inc/catchkathmandu-metabox.php:180
+#: ../inc/panel/customizer/customizer.php:97
+#: ../inc/panel/theme-options.php:650
+msgid "Content Featured Image Options"
+msgstr "Content Featured Image Options"
+
+#: ../inc/catchkathmandu-widgets.php:14
+msgid "Main Sidebar"
+msgstr "Основная панель"
+
+#: ../inc/catchkathmandu-widgets.php:16
+msgid "Shows the Widgets at the side of Content"
+msgstr "Показывать Виджеты на панели Содержание"
+
+#: ../inc/catchkathmandu-widgets.php:25 ../inc/panel/theme-options.php:513
+msgid "Header Right Sidebar"
+msgstr "Header Right Sidebar"
+
+#: ../inc/catchkathmandu-widgets.php:27
+msgid "Shows the Widgets at the Top Right Side of Header"
+msgstr "Shows the Widgets at the Top Right Side of Header"
+
+#: ../inc/catchkathmandu-widgets.php:36
+msgid "Footer Area One"
+msgstr "Первая нижняя область сайта(Footer)"
+
+#: ../inc/catchkathmandu-widgets.php:38 ../inc/catchkathmandu-widgets.php:49
+#: ../inc/catchkathmandu-widgets.php:60 ../inc/catchkathmandu-widgets.php:71
+msgid "An optional widget area for your site footer"
+msgstr "Зона виджетов для нижней области сайта(Footer)"
+
+#: ../inc/catchkathmandu-widgets.php:47
+msgid "Footer Area Two"
+msgstr "Вторая нижняя область сайта(Footer)"
+
+#: ../inc/catchkathmandu-widgets.php:58
+msgid "Footer Area Three"
+msgstr "Третья нижняя область сайта(Footer)"
+
+#: ../inc/catchkathmandu-widgets.php:69
+msgid "Footer Area Four"
+msgstr "четвертый нижняя область сайта(Footer)"
+
+#: ../inc/catchkathmandu-widgets.php:99
+msgid "CT: Social Widget"
+msgstr ""
+
+#: ../inc/catchkathmandu-widgets.php:100
+msgid ""
+"Use this widget to add Social Icons from Social Icons Settings as a widget."
+msgstr "Используйте этот виджет для добавления социальных иконок. "
+
+#: ../inc/catchkathmandu-widgets.php:113
+msgid "Title (optional):"
+msgstr "Название(Title) (опционально):"
+
+#. translators: header image description
+#: ../inc/custom-header.php:80
+msgid "Default Logo"
+msgstr "Default Logo"
+
+#. translators: header image description
+#: ../inc/custom-header.php:86
+msgid "Catch Kathmandu Logo"
+msgstr "Catch Kathmandu Logo"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:107
+#: ../inc/panel/theme-options.php:1838
+msgid "Copyright"
+msgstr "Авторские права"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:107
+#: ../inc/panel/theme-options.php:1838
+msgid "All Rights Reserved"
+msgstr "Все права защищены"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:107
+#: ../inc/panel/theme-options.php:1838
+msgid "Catch Kathmandu by"
+msgstr "Catch Kathmandu by"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:125
+msgid "Y"
+msgstr "Y"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:146
+msgid "http://catchthemes.com"
+msgstr "http://catchthemes.com"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:146
+#: ../inc/panel/theme-options.php:93 ../inc/panel/theme-options.php:94
+msgid "Catch Themes"
+msgstr "Catch Themes"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:157
+#: ../inc/panel/theme-options.php:744
+msgid "Light (Blue)"
+msgstr "Светлый"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:158
+#: ../inc/panel/theme-options.php:748
+msgid "Dark"
+msgstr "Темный"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:159
+#: ../inc/panel/theme-options.php:752
+msgid "Light (Black)"
+msgstr "Light (Black)"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:173
+#: ../inc/panel/theme-options.php:242
+msgid "3 Columns"
+msgstr "3 Columns"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:174
+#: ../inc/panel/theme-options.php:247
+msgid "4 Columns"
+msgstr "4 Columns"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:188
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:287
+#: ../inc/panel/theme-options.php:550 ../inc/panel/theme-options.php:924
+msgid "Homepage"
+msgstr "Homepage"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:189
+#: ../inc/panel/theme-options.php:555
+msgid "Excluding Homepage"
+msgstr "Excluding Homepage"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:190
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:288
+#: ../inc/panel/theme-options.php:560 ../inc/panel/theme-options.php:928
+msgid "Entire Site"
+msgstr "Весь сайт"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:191
+#: ../inc/panel/theme-options.php:565
+msgid "Entire Site, Page/Post Featured Image"
+msgstr "Entire Site, Page/Post Featured Image"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:192
+#: ../inc/panel/theme-options.php:570
+msgid "Pages & Posts"
+msgstr "Pages & Posts"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:240
+#: ../inc/panel/theme-options.php:690
+msgid "Right Sidebar"
+msgstr "Правая боковая панель"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:241
+#: ../inc/panel/theme-options.php:695
+msgid "Left Sidebar"
+msgstr "Левая боковая панель"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:242
+#: ../inc/panel/theme-options.php:700
+msgid "No Sidebar"
+msgstr "Без боковой панели"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:256
+#: ../inc/panel/customizer/customizer.php:421
+#: ../inc/panel/theme-options.php:710
+msgid "Full Content Display"
+msgstr "Полное отображения содержания"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:257
+#: ../inc/panel/theme-options.php:714
+msgid "Excerpt/Blog Display"
+msgstr "Обрезка/Отображение блога"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:271
+msgid "Demo Slider"
+msgstr "Демо слайдер"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:272
+#: ../inc/panel/theme-options.php:908
+msgid "Post Slider"
+msgstr "Post Slider"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:273
+#: ../inc/panel/theme-options.php:913
+msgid "Category Slider"
+msgstr "Category Slider"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:303
+#: ../inc/panel/theme-options.php:950
+msgid "fade"
+msgstr "fade"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:304
+#: ../inc/panel/theme-options.php:951
+msgid "wipe"
+msgstr "wipe"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:305
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:307
+#: ../inc/panel/theme-options.php:952
+msgid "scrollUp"
+msgstr "scrollUp"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:306
+#: ../inc/panel/theme-options.php:953
+msgid "scrollDown"
+msgstr "scrollDown"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:308
+#: ../inc/panel/theme-options.php:954
+msgid "scrollLeft"
+msgstr "scrollLeft"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:309
+#: ../inc/panel/theme-options.php:955
+msgid "scrollRight"
+msgstr "scrollRight"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:310
+#: ../inc/panel/theme-options.php:956
+msgid "blindX"
+msgstr "blindX"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:311
+#: ../inc/panel/theme-options.php:957
+msgid "blindY"
+msgstr "blindY"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:312
+#: ../inc/panel/theme-options.php:958
+msgid "blindZ"
+msgstr "blindZ"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:313
+#: ../inc/panel/theme-options.php:959
+msgid "cover"
+msgstr "cover"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:314
+#: ../inc/panel/theme-options.php:960
+msgid "shuffle"
+msgstr "shuffle"
+
+#: ../inc/panel/customizer/customizer-custom-controls.php:47
+msgid ""
+"Hold down the Ctrl (windows) / Command (Mac) button to select multiple "
+"options."
+msgstr ""
+"Зажмите Ctrl (windows) / Command (Mac) кнопку для выбора нескольких "
+"категорий."
+
+#: ../inc/panel/customizer/customizer-custom-controls.php:60
+msgid "Theme Instructions"
+msgstr "Theme Instructions"
+
+#: ../inc/panel/customizer/customizer-custom-controls.php:64
+#: ../inc/panel/theme-options.php:106
+msgid "Support"
+msgstr "Поддержка"
+
+#: ../inc/panel/customizer/customizer-custom-controls.php:68
+msgid "Changelog"
+msgstr "Изменения"
+
+#: ../inc/panel/customizer/customizer-custom-controls.php:72
+#: ../inc/panel/theme-options.php:105
+msgid "Donate Now"
+msgstr "Пожертвовать"
+
+#: ../inc/panel/customizer/customizer-custom-controls.php:76
+msgid "Review"
+msgstr "Отзыв"
+
+#: ../inc/panel/customizer/customizer.php:39
+msgid "Color Scheme"
+msgstr "Цветовая схема"
+
+#: ../inc/panel/customizer/customizer.php:53
+msgid "Basic theme Options"
+msgstr "Основные настройки темы"
+
+#: ../inc/panel/customizer/customizer.php:57
+#: ../inc/panel/theme-options.php:137
+msgid "Homepage Headline Options"
+msgstr "Настройки верхней линии домашней страницы"
+
+#: ../inc/panel/customizer/customizer.php:62
+#: ../inc/panel/theme-options.php:208
+msgid "Homepage Featured Content Options"
+msgstr "Опции избранного содержания домашней страницы"
+
+#: ../inc/panel/customizer/customizer.php:67
+msgid "Homepage/Frontpage Settings"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:72
+#: ../inc/panel/theme-options.php:364
+msgid "Responsive Design"
+msgstr "Отзывчивый дизайн"
+
+#: ../inc/panel/customizer/customizer.php:77
+#: ../inc/panel/theme-options.php:396
+msgid "Favicon"
+msgstr "Мини-иконка сайта(Favicon)"
+
+#: ../inc/panel/customizer/customizer.php:82
+msgid "Webclip Icon Options"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:83
+msgid ""
+"Web Clip Icon for Apple devices. Recommended Size - Width 144px and Height "
+"144px height, which will support High Resolution Devices like iPad Retina"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:87
+#: ../inc/panel/theme-options.php:492
+msgid "Header Options"
+msgstr "Header Options"
+
+#: ../inc/panel/customizer/customizer.php:92
+msgid "Header Featured image Options"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:102
+#: ../inc/panel/theme-options.php:681
+msgid "Layout Options"
+msgstr "Опции разметки"
+
+#: ../inc/panel/customizer/customizer.php:107
+#: ../inc/panel/theme-options.php:783
+msgid "Search Text Settings"
+msgstr "Настройки поиска текста"
+
+#: ../inc/panel/customizer/customizer.php:112
+#: ../inc/panel/theme-options.php:800
+msgid "Excerpt / More Tag Settings"
+msgstr "Обрезка / Дополнительные настройки меток"
+
+#: ../inc/panel/customizer/customizer.php:117
+#: ../inc/panel/theme-options.php:835
+msgid "Feed Redirect"
+msgstr "Перенаправление ленты"
+
+#: ../inc/panel/customizer/customizer.php:118
+msgid ""
+"This options will be retired in next version as per WordPress.org theme "
+"review rules"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:122
+#: ../inc/panel/theme-options.php:852
+msgid "Custom CSS"
+msgstr "Изменяемый CSS"
+
+#: ../inc/panel/customizer/customizer.php:127
+#: ../inc/panel/theme-options.php:877
+msgid "Scroll Up"
+msgstr "прокрутка вверх"
+
+#: ../inc/panel/customizer/customizer.php:136
+#: ../inc/panel/customizer/customizer.php:137
+#: ../inc/panel/theme-options.php:126
+msgid "Featured Slider"
+msgstr "Популярные слайд-шоу"
+
+#: ../inc/panel/customizer/customizer.php:141
+#: ../inc/panel/theme-options.php:899
+msgid "Slider Options"
+msgstr "Опции слайдера"
+
+#: ../inc/panel/customizer/customizer.php:149
+#: ../inc/panel/theme-options.php:127
+msgid "Social Links"
+msgstr "Социальные ссылки"
+
+#: ../inc/panel/customizer/customizer.php:150
+msgid "Add your social links here"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:154
+msgid "Predefined Social Icons"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:161
+#: ../inc/panel/theme-options.php:129
+msgid "Tools"
+msgstr "Tools"
+
+#: ../inc/panel/customizer/customizer.php:166
+#: ../inc/panel/theme-options.php:1314
+msgid "Header and Footer Codes"
+msgstr "Код верхней части(Header) и нижней части(Footer)"
+
+#: ../inc/panel/customizer/customizer.php:211
+#: ../inc/panel/theme-options.php:141
+msgid "Homepage Headline Text"
+msgstr "Homepage Headline Text"
+
+#: ../inc/panel/customizer/customizer.php:212
+#: ../inc/panel/customizer/customizer.php:1424
+msgid "Appropriate Words: 10"
+msgstr "Приблизительно слов 10"
+
+#: ../inc/panel/customizer/customizer.php:221
+msgid "Homepage Subheadline Text"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:222
+msgid "Appropriate Words: 15"
+msgstr "Приблизительно слов 15"
+
+#: ../inc/panel/customizer/customizer.php:231
+msgid "Homepage Headline Button Text "
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:232
+msgid "Appropriate Words: 3"
+msgstr "Приблизительно 3 слова"
+
+#: ../inc/panel/customizer/customizer.php:241
+msgid "Homepage Headline Link"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:242
+msgid "Add link for your homepage headline button"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:251
+msgid "Check to Disable Homepage Headline"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:261
+msgid "Check to Disable Homepage Subheadline"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:271
+msgid "Check to Disable Homepage Button"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:282
+msgid "Check to Disable Homepage Featured Content"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:292
+#: ../inc/panel/theme-options.php:221
+msgid "Headline"
+msgstr "Верхняя линия"
+
+#: ../inc/panel/customizer/customizer.php:302
+#: ../inc/panel/theme-options.php:229
+msgid "Number of Featured Content"
+msgstr "Число избранного содержания"
+
+#: ../inc/panel/customizer/customizer.php:318
+#: ../inc/panel/theme-options.php:237
+msgid "Featured Content Layout"
+msgstr "Featured Content Layout"
+
+#: ../inc/panel/customizer/customizer.php:331
+msgid "Check to Enable Latest Posts on homepage"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:341
+#: ../inc/panel/theme-options.php:329
+msgid "Homepage posts categories:"
+msgstr "Рубрики домашней страницы:"
+
+#: ../inc/panel/customizer/customizer.php:342
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the front page"
+msgstr "Публикации из отмеченых категорий будут отображаться на сайте"
+
+#: ../inc/panel/customizer/customizer.php:351
+msgid "Check to Move above Homepage Featured Content"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:363
+msgid "Check to Disable Responsive Design"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:373
+msgid "Check to Enable Secondary Menu in Mobile Devices"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:385
+msgid "Check to Disable Header Right Sidebar"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:397
+#: ../inc/panel/theme-options.php:654
+msgid "Content Featured Image Size"
+msgstr "Content Featured Image Size"
+
+#: ../inc/panel/customizer/customizer.php:410
+#: ../inc/panel/theme-options.php:685
+msgid "Sidebar Layout Options"
+msgstr "Опции разметки боковой панели"
+
+#: ../inc/panel/customizer/customizer.php:432
+msgid "Check to Reset Layout"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:433
+#: ../inc/panel/customizer/customizer.php:483
+#: ../inc/panel/customizer/customizer.php:619
+#: ../inc/panel/customizer/customizer.php:1035
+#: ../inc/panel/customizer/customizer.php:1104
+msgid "Please refresh the customizer after saving if reset option is used"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:444
+#: ../inc/panel/theme-options.php:787
+msgid "Default Display Text in Search"
+msgstr "Текст в строке поиска по умолчанию"
+
+#: ../inc/panel/customizer/customizer.php:456
+#: ../inc/panel/theme-options.php:804
+msgid "More Tag Text"
+msgstr "Дополнительный текст меток"
+
+#: ../inc/panel/customizer/customizer.php:466
+#: ../inc/panel/theme-options.php:812
+msgid "Excerpt length(words)"
+msgstr "Задать длину(в словах)"
+
+#: ../inc/panel/customizer/customizer.php:482
+msgid "Check to Reset Excerpt"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:494
+#: ../inc/panel/theme-options.php:839
+msgid "Feed Redirect URL"
+msgstr "Ссылка на перенаправление ленты"
+
+#: ../inc/panel/customizer/customizer.php:495
+#: ../inc/panel/theme-options.php:842
+msgid "Add in the Feedburner URL"
+msgstr "Добавить ссылку Feedburner"
+
+#: ../inc/panel/customizer/customizer.php:506
+msgid "Enter your custom CSS styles"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:518
+msgid "Check to Disable Scroll Up"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:530
+#: ../inc/panel/theme-options.php:919
+msgid "Enable Slider"
+msgstr "Включить слайдер"
+
+#: ../inc/panel/customizer/customizer.php:541
+msgid "Transition Effect"
+msgstr "Эффект перехода"
+
+#: ../inc/panel/customizer/customizer.php:553
+#: ../inc/panel/theme-options.php:966
+msgid "Transition Delay"
+msgstr "Задержка перехода"
+
+#: ../inc/panel/customizer/customizer.php:570
+#: ../inc/panel/theme-options.php:975
+msgid "Transition Length"
+msgstr "Длина перехода"
+
+#: ../inc/panel/customizer/customizer.php:587
+#: ../inc/panel/theme-options.php:903
+msgid "Select Slider Type"
+msgstr "Select Slider Type"
+
+#: ../inc/panel/customizer/customizer.php:599
+#: ../inc/panel/theme-options.php:938
+msgid "Number of Slides"
+msgstr "Количество слайдов"
+
+#: ../inc/panel/customizer/customizer.php:600
+msgid ""
+"Customizer page needs to be refreshed after saving if number of slides is "
+"changed"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:618
+msgid "Check to Exclude Slider posts from Homepage posts"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:631
+#: ../inc/panel/theme-options.php:1027
+msgid "Select Slider Categories"
+msgstr "Select Slider Categories"
+
+#: ../inc/panel/customizer/customizer.php:632
+#: ../inc/panel/theme-options.php:1028
+msgid ""
+"Use this only is you want to display posts from Specific Categories in "
+"Featured Slider"
+msgstr ""
+"Use this only is you want to display posts from Specific Categories in "
+"Featured Slider"
+
+#: ../inc/panel/customizer/customizer.php:684
+#: ../inc/panel/theme-options.php:1096
+msgid "Youtube"
+msgstr "Youtube"
+
+#: ../inc/panel/customizer/customizer.php:714
+#: ../inc/panel/theme-options.php:1120
+msgid "Slideshare"
+msgstr "Slideshare"
+
+#: ../inc/panel/customizer/customizer.php:724
+#: ../inc/panel/theme-options.php:1128
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: ../inc/panel/customizer/customizer.php:874
+#: ../inc/panel/theme-options.php:1248
+msgid "Goodreads"
+msgstr "Goodreads"
+
+#: ../inc/panel/customizer/customizer.php:894
+#: ../inc/panel/theme-options.php:1264
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: ../inc/panel/customizer/customizer.php:945
+msgid "Header Code"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:946
+msgid ""
+"Here you can put scripts from Google, Facebook, Twitter, Add This etc. which "
+"will load on Header"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:956
+msgid "Footer Code"
+msgstr "Код для нижней части сайта"
+
+#: ../inc/panel/customizer/customizer.php:957
+msgid ""
+"Here you can put scripts from Google, Facebook, Twitter, Add This etc. which "
+"will load on footer"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:972
+#: ../inc/panel/customizer/customizer.php:1050
+#: ../inc/panel/theme-options.php:545
+msgid "Enable Featured Header Image"
+msgstr "Enable Featured Header Image"
+
+#: ../inc/panel/customizer/customizer.php:983
+#: ../inc/panel/customizer/customizer.php:1062
+#: ../inc/panel/theme-options.php:581
+msgid "Page/Post Featured Image Size"
+msgstr "Page/Post Featured Image Size"
+
+#: ../inc/panel/customizer/customizer.php:994
+msgid "Featured Header Image"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:1004
+#: ../inc/panel/customizer/customizer.php:1073
+#: ../inc/panel/theme-options.php:607
+msgid "Featured Header Image Alt/Title Tag"
+msgstr "Featured Header Image Alt/Title Tag"
+
+#: ../inc/panel/customizer/customizer.php:1014
+#: ../inc/panel/customizer/customizer.php:1083
+#: ../inc/panel/theme-options.php:615
+msgid "Featured Header Image Link URL"
+msgstr "Featured Header Image Link URL"
+
+#: ../inc/panel/customizer/customizer.php:1024
+#: ../inc/panel/customizer/customizer.php:1093
+msgid "Check to Open Link in New Tab/Window"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:1034
+#: ../inc/panel/customizer/customizer.php:1103
+msgid "Check to Reset Header Featured Image Options"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:1121
+msgid "Check to Disable Favicon"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:1131
+msgid "Fav Icon"
+msgstr "Fav Icon"
+
+#: ../inc/panel/customizer/customizer.php:1143
+msgid "Check to Disable Web Clip Icon"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:1153
+msgid "Web Clip Icon"
+msgstr "Web Clip Icon"
+
+#: ../inc/panel/customizer/customizer.php:1319
+#: ../inc/panel/theme-options.php:255
+#, php-format
+msgid "Featured Content #%s"
+msgstr "Избранное содержание #%s"
+
+#: ../inc/panel/customizer/customizer.php:1360
+#: ../inc/panel/theme-options.php:267
+msgid "Link URL"
+msgstr "Адрес ссылки"
+
+#: ../inc/panel/customizer/customizer.php:1380
+#: ../inc/panel/theme-options.php:275 ../inc/panel/theme-options.php:623
+msgid "Target. Open Link in New Window?"
+msgstr "Цель. Открывать ссылку в новом окне?"
+
+#: ../inc/panel/customizer/customizer.php:1400
+#: ../inc/panel/theme-options.php:284
+msgid "Title"
+msgstr "Название"
+
+#: ../inc/panel/customizer/customizer.php:1403
+#: ../inc/panel/theme-options.php:287
+msgid "Leave empty if you want to remove title"
+msgstr "Оставить пустым, если вы хотите убрать название"
+
+#: ../inc/panel/customizer/customizer.php:1421
+#: ../inc/panel/theme-options.php:292
+msgid "Content"
+msgstr "Содержание"
+
+#: ../inc/panel/customizer/customizer.php:1445
+#: ../inc/panel/theme-options.php:1004
+#, php-format
+msgid "Featured Post Slider #%s"
+msgstr "Featured Post Slider #%s"
+
+#: ../inc/panel/customizer/customizer.php:1460
+msgid ""
+"Caution: Reset all settings to default. Refresh the page after save to view "
+"full effects."
+msgstr ""
+"Внимание!!! Сброс всех настроек на настройки по умолчанию. Сохраните "
+"изменения и обновите страницу."
+
+#: ../inc/panel/customizer/customizer.php:1462
+msgid "Reset all settings"
+msgstr "Сброс всех настроек"
+
+#: ../inc/panel/customizer/customizer.php:1472
+msgid "Check to reset all settings to default"
+msgstr ""
+
+#: ../inc/panel/customizer/customizer.php:1482
+#: ../inc/panel/customizer/customizer.php:1493
+msgid "Important Links"
+msgstr "Полезные ссылки"
+
+#: ../inc/panel/customizer/customizer.php:1531
+msgid "Upgrade To Pro &raquo;"
+msgstr "Обновить до версии Pro &raquo;"
+
+#: ../inc/panel/theme-options.php:85
+msgid "Options Saved"
+msgstr "Опции сохранены"
+
+#: ../inc/panel/theme-options.php:91
+msgid "Theme Options By"
+msgstr "Автор опций для темы"
+
+#: ../inc/panel/theme-options.php:93
+msgid "http://catchthemes.com/"
+msgstr "http://catchthemes.com/"
+
+#: ../inc/panel/theme-options.php:100
+msgid "http://catchthemes.com/themes/catch-kathmandu-pro/"
+msgstr "http://catchthemes.com/themes/catch-kathmandu-pro/"
+
+#: ../inc/panel/theme-options.php:100
+msgid "Upgrade to Catch Kathmandu Pro"
+msgstr "Повысить до Catch Kathmandu Pro"
+
+#: ../inc/panel/theme-options.php:105
+msgid "http://catchthemes.com/donate/"
+msgstr "http://catchthemes.com/donate/"
+
+#: ../inc/panel/theme-options.php:105
+msgid "Donate to Catch Kathmandu"
+msgstr "Пожертвовать для Catch Kathmandu"
+
+#: ../inc/panel/theme-options.php:106
+msgid "http://catchthemes.com/support/"
+msgstr "http://catchthemes.com/support/"
+
+#: ../inc/panel/theme-options.php:107
+msgid "http://catchthemes.com/theme-instructions/catch-kathmandu/"
+msgstr "http://catchthemes.com/theme-instructions/catch-kathmandu/"
+
+#: ../inc/panel/theme-options.php:107
+msgid "Theme Instruction"
+msgstr "Инструкции для темы"
+
+#: ../inc/panel/theme-options.php:108
+msgid "https://www.facebook.com/catchthemes/"
+msgstr "https://www.facebook.com/catchthemes/"
+
+#: ../inc/panel/theme-options.php:108
+msgid "Like Catch Themes on Facebook"
+msgstr "Лайкнуть Catch Themes на Facebook"
+
+#: ../inc/panel/theme-options.php:109
+msgid "https://twitter.com/catchthemes/"
+msgstr "https://twitter.com/catchthemes/"
+
+#: ../inc/panel/theme-options.php:109
+msgid "Follow Catch Themes on Twitter"
+msgstr "Зафолловить Catch Themes в Twitter"
+
+#: ../inc/panel/theme-options.php:110
+msgid "http://wordpress.org/support/view/theme-reviews/catch-kathmandu"
+msgstr "http://wordpress.org/support/view/theme-reviews/catch-kathmandu"
+
+#: ../inc/panel/theme-options.php:110
+msgid "Rate us 5 Star on WordPress"
+msgstr "Оценить в 5 звезд на сайте WordPress"
+
+#: ../inc/panel/theme-options.php:110
+msgid "5 Star Rating"
+msgstr "Оценка в 5 звезд"
+
+#: ../inc/panel/theme-options.php:116
+#, php-format
+msgctxt "1: Customizer Link Start, 2: Customizer Link End"
+msgid ""
+"Theme Options Panel will be retired on future versions. Please use %1$s "
+"Customizer %2$s instead."
+msgstr ""
+
+#: ../inc/panel/theme-options.php:142
+msgid "The appropriate length for Headine is around 10 words."
+msgstr "Подходящий размер верхней линии домашней страницы: 10 слов."
+
+#: ../inc/panel/theme-options.php:150
+msgid "Homepage Subheadline Headline"
+msgstr "Подверхняя линия домашней страницы"
+
+#: ../inc/panel/theme-options.php:151
+msgid "The appropriate length for Headine is around 15 words."
+msgstr "The appropriate length for Headine is around 15 words."
+
+#: ../inc/panel/theme-options.php:159
+msgid "Homepage Headline Button Text"
+msgstr "Homepage Headline Button Text"
+
+#: ../inc/panel/theme-options.php:160
+msgid "The appropriate length for Headine is around 3 words."
+msgstr "The appropriate length for Headine is around 3 words."
+
+#: ../inc/panel/theme-options.php:168
+msgid "Headine Link"
+msgstr "Headine Link"
+
+#: ../inc/panel/theme-options.php:176
+msgid "Disable Homepage Headline?"
+msgstr "Отключить верхнюю линию домашней страницы?"
+
+#: ../inc/panel/theme-options.php:180 ../inc/panel/theme-options.php:189
+#: ../inc/panel/theme-options.php:198 ../inc/panel/theme-options.php:216
+#: ../inc/panel/theme-options.php:372 ../inc/panel/theme-options.php:404
+#: ../inc/panel/theme-options.php:449 ../inc/panel/theme-options.php:885
+msgid "Check to disable"
+msgstr "Отключить"
+
+#: ../inc/panel/theme-options.php:185
+msgid "Disable Homepage Subheadline?"
+msgstr "Отключить подверхнюю линию домашней страницы?"
+
+#: ../inc/panel/theme-options.php:194
+msgid "Disable Homepage Button?"
+msgstr "Disable Homepage Button?"
+
+#: ../inc/panel/theme-options.php:202 ../inc/panel/theme-options.php:302
+#: ../inc/panel/theme-options.php:358 ../inc/panel/theme-options.php:385
+#: ../inc/panel/theme-options.php:435 ../inc/panel/theme-options.php:483
+#: ../inc/panel/theme-options.php:520 ../inc/panel/theme-options.php:641
+#: ../inc/panel/theme-options.php:675 ../inc/panel/theme-options.php:729
+#: ../inc/panel/theme-options.php:777 ../inc/panel/theme-options.php:794
+#: ../inc/panel/theme-options.php:829 ../inc/panel/theme-options.php:846
+#: ../inc/panel/theme-options.php:871 ../inc/panel/theme-options.php:889
+#: ../inc/panel/theme-options.php:983 ../inc/panel/theme-options.php:1017
+#: ../inc/panel/theme-options.php:1050 ../inc/panel/theme-options.php:1303
+#: ../inc/panel/theme-options.php:1333
+msgid "Save Changes"
+msgstr "Сохранить"
+
+#: ../inc/panel/theme-options.php:212
+msgid "Disable Homepage Featured Content?"
+msgstr "Отключить избранное содержание домашней страницы?"
+
+#: ../inc/panel/theme-options.php:224
+msgid "Leave empty if you want to remove headline"
+msgstr "Оставьте верхнюю линию пустой, если вы хотите ее удалить"
+
+#: ../inc/panel/theme-options.php:262
+#, php-format
+msgid "Insert as Featured Content #%s"
+msgstr "Insert as Featured Content #%s"
+
+#: ../inc/panel/theme-options.php:262
+msgid "Change Image"
+msgstr "Сменить изображение"
+
+#: ../inc/panel/theme-options.php:262
+msgid "Add Image"
+msgstr "Добавить изображение"
+
+#: ../inc/panel/theme-options.php:270
+msgid "Add in the Target URL for the content"
+msgstr "Добавить в целевой URL для содержания"
+
+#: ../inc/panel/theme-options.php:279 ../inc/panel/theme-options.php:627
+msgid "Check to open in new window"
+msgstr "Открыть в новом окне"
+
+#: ../inc/panel/theme-options.php:293
+msgid "The appropriate length for Content is around 10 words."
+msgstr "Подходящий размер для Содержания около 10 слов"
+
+#: ../inc/panel/theme-options.php:308
+msgid "Homepage / Frontpage Settings"
+msgstr "Настройки Домашней / Лицевой страницы"
+
+#: ../inc/panel/theme-options.php:312
+msgid "Enable Latest Posts?"
+msgstr "Включить послдение записи?"
+
+#: ../inc/panel/theme-options.php:316
+msgid "Check to Enable"
+msgstr "Включить"
+
+#: ../inc/panel/theme-options.php:321
+msgid "Add Page instead of Latest Posts"
+msgstr "Добавить страницу вместо последних записей"
+
+#: ../inc/panel/theme-options.php:324
+msgid "Click Here to Set Static Front Page Instead of Latest Posts"
+msgstr ""
+"Нажмите здесь для установки статичной лицевой страницы, вместо последних "
+"записей"
+
+#: ../inc/panel/theme-options.php:330
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the front page."
+msgstr ""
+"Только записи, которые относятся к рубрикам, выбранным здесь, будут "
+"отображаться на лицевой странице."
+
+#: ../inc/panel/theme-options.php:334 ../inc/panel/theme-options.php:1032
+msgid "--Disabled--"
+msgstr "--Отключено--"
+
+#: ../inc/panel/theme-options.php:345 ../inc/panel/theme-options.php:1043
+msgid "You may select multiple categories by holding down the CTRL key."
+msgstr "Вы можете выбрать несколкьо рубрик, удерживая клавишу CTRL"
+
+#: ../inc/panel/theme-options.php:350
+msgid "Move above Homepage Featured Content?"
+msgstr "Move above Homepage Featured Content?"
+
+#: ../inc/panel/theme-options.php:354
+msgid "Check to Move"
+msgstr "Check to Move"
+
+#: ../inc/panel/theme-options.php:368
+msgid "Disable Responsive Design?"
+msgstr "Отключить отзывчивый дизайн?"
+
+#: ../inc/panel/theme-options.php:377
+msgid "Enable Secondary Menu in Mobile Devices?"
+msgstr "Enable Secondary Menu in Mobile Devices?"
+
+#: ../inc/panel/theme-options.php:381
+msgid "Check to enable"
+msgstr "Включить"
+
+#: ../inc/panel/theme-options.php:400
+msgid "Disable Favicon?"
+msgstr "Отключить мини-иконку сайта(Favicon)?"
+
+#: ../inc/panel/theme-options.php:409
+msgid "Fav Icon URL:"
+msgstr "Ссылка на мини-иконку сайта(Favicon):"
+
+#: ../inc/panel/theme-options.php:417
+msgid "Insert as Fav Icon"
+msgstr "Insert as Fav Icon"
+
+#: ../inc/panel/theme-options.php:417
+msgid "Change Fav Icon"
+msgstr "Изменить мини-иконку сайта(Favicon)"
+
+#: ../inc/panel/theme-options.php:422 ../inc/panel/theme-options.php:467
+msgid "Preview"
+msgstr "Превью"
+
+#: ../inc/panel/theme-options.php:441
+msgid "Web Clip Icon Options"
+msgstr "Опции Web Clip иконки сайта"
+
+#: ../inc/panel/theme-options.php:445
+msgid "Disable Web Clip Icon?"
+msgstr "Отключить Web Clip иконку сайта?"
+
+#: ../inc/panel/theme-options.php:454
+msgid "Web Clip Icon URL:"
+msgstr "Ссылка на Web Clip иконку сайта:"
+
+#: ../inc/panel/theme-options.php:462
+msgid "Insert as Web Clip Icon"
+msgstr "Insert as Web Clip Icon"
+
+#: ../inc/panel/theme-options.php:462
+msgid "Change Web Clip Icon"
+msgstr "Изменить Web Clip иконку сайта"
+
+#: ../inc/panel/theme-options.php:480
+msgid ""
+"Note: Web Clip Icon for Apple devices. Recommended Size - Width 144px and "
+"Height 144px height, which will support High Resolution Devices like iPad "
+"Retina."
+msgstr ""
+"Пояснение: Web Clip - иконка для устройств Apple. Рекомендованный размер: "
+"ширина 144px и высота 144px - высота, которую поддерживают устройства с "
+"высоким разрешением как, например iPad Retina."
+
+#: ../inc/panel/theme-options.php:496
+msgid "Custom Header: Logo & Site Details"
+msgstr "Custom Header: Logo & Site Details"
+
+#: ../inc/panel/theme-options.php:499
+msgid "Click Here to Add/Replace Header Logo & Site Details"
+msgstr "Click Here to Add/Replace Header Logo & Site Details"
+
+#: ../inc/panel/theme-options.php:504
+msgid "Disable Header Right Sidebar?"
+msgstr "Disable Header Right Sidebar?"
+
+#: ../inc/panel/theme-options.php:508
+msgid "Check to Disable"
+msgstr "Check to Disable"
+
+#: ../inc/panel/theme-options.php:516
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: ../inc/panel/theme-options.php:516
+msgid "Click Here to Add/Replace Widgets"
+msgstr "Click Here to Add/Replace Widgets"
+
+#: ../inc/panel/theme-options.php:533
+msgid "Custom Header"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:536
+msgid "Click Here to Add/Replace Header Image"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:599
+msgid "Featured Header Image URL"
+msgstr "Featured Header Image URL"
+
+#: ../inc/panel/theme-options.php:602
+msgid "Insert as Featured Header Image"
+msgstr "Insert as Featured Header Image"
+
+#: ../inc/panel/theme-options.php:602
+msgid "Change Header Image"
+msgstr "Change Header Image"
+
+#: ../inc/panel/theme-options.php:633
+msgid "Reset Header Featured Image Options?"
+msgstr "Reset Header Featured Image Options?"
+
+#: ../inc/panel/theme-options.php:637 ../inc/panel/theme-options.php:725
+#: ../inc/panel/theme-options.php:825
+msgid "Check to reset"
+msgstr "Сбросить"
+
+#: ../inc/panel/theme-options.php:706
+msgid "Content Layout"
+msgstr "Разметка содержания"
+
+#: ../inc/panel/theme-options.php:721
+msgid "Reset Layout?"
+msgstr "Сбросить разметку?"
+
+#: ../inc/panel/theme-options.php:735
+msgid "Color Options"
+msgstr "Color Options"
+
+#: ../inc/panel/theme-options.php:739
+msgid "Default Color Scheme"
+msgstr "Default Color Scheme"
+
+#: ../inc/panel/theme-options.php:758
+msgid "Custom Background Color:"
+msgstr "Custom Background Color:"
+
+#: ../inc/panel/theme-options.php:762
+msgid "Click Here to change Background Color/Image"
+msgstr "Click Here to change Background Color/Image"
+
+#: ../inc/panel/theme-options.php:768
+msgid "Custom Header: "
+msgstr "Custom Header:"
+
+#: ../inc/panel/theme-options.php:772
+msgid "Click Here to change Site Title and Tagline Color"
+msgstr "Click Here to change Site Title and Tagline Color"
+
+#: ../inc/panel/theme-options.php:821
+msgid "Reset Excerpt?"
+msgstr "Reset Excerpt?"
+
+#: ../inc/panel/theme-options.php:856
+msgid "Enter your custom CSS styles."
+msgstr "Введите ваш стиль CSS"
+
+#: ../inc/panel/theme-options.php:864
+msgid "CSS Tutorial from W3Schools."
+msgstr "Инструкция по CSS от W3Schools."
+
+#: ../inc/panel/theme-options.php:867
+msgid "http://www.w3schools.com/css/default.asp"
+msgstr "http://www.w3schools.com/css/default.asp"
+
+#: ../inc/panel/theme-options.php:867
+msgid "CSS Tutorial"
+msgstr "Инструкция по CSS"
+
+#: ../inc/panel/theme-options.php:867
+msgid "Click Here to Read"
+msgstr "Нажмите для чтения"
+
+#: ../inc/panel/theme-options.php:881
+msgid "Disable Scroll Up?"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:946
+msgid "Transition Effect:"
+msgstr "Эффект перехода:"
+
+#: ../inc/panel/theme-options.php:970 ../inc/panel/theme-options.php:979
+msgid "second(s)"
+msgstr "секунд(ы)"
+
+#: ../inc/panel/theme-options.php:989
+msgid "Featured Post Slider Options"
+msgstr "Опции слайдера избранных записей"
+
+#: ../inc/panel/theme-options.php:993
+msgid "Exclude Slider post from Homepage posts?"
+msgstr "Исключить записи в слайдере из записей домашней страницы?"
+
+#: ../inc/panel/theme-options.php:997
+msgid "Check to exclude"
+msgstr "Исключить"
+
+#: ../inc/panel/theme-options.php:1008
+msgid "Click Here To Edit"
+msgstr "Нажмите здесь для редактирования"
+
+#: ../inc/panel/theme-options.php:1014
+msgid ""
+"Note: Here You can put your Post IDs which displays on Homepage as slider."
+msgstr ""
+"Пояснение: Здесь вы можете вставить ID своих записей, которые будут "
+"присутствовать в слайдере на домашней странице"
+
+#: ../inc/panel/theme-options.php:1023
+msgid "Featured Category Slider Options"
+msgstr "Featured Category Slider Options"
+
+#: ../inc/panel/theme-options.php:1047
+msgid ""
+"Note: Here you can select the categories from which latest posts will "
+"display on Featured Slider."
+msgstr ""
+"Note: Here you can select the categories from which latest posts will "
+"display on Featured Slider."
+
+#: ../inc/panel/theme-options.php:1060
+msgid "Predefine Social Icons"
+msgstr "Predefine Social Icons"
+
+#: ../inc/panel/theme-options.php:1112
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: ../inc/panel/theme-options.php:1318
+msgid "Code to display on Header"
+msgstr "Код для отображения в верхней части"
+
+#: ../inc/panel/theme-options.php:1321
+msgid ""
+"Note: Note: Here you can put scripts from Google, Facebook, Twitter, Add "
+"This etc. which will load on Header"
+msgstr ""
+"Пояснение: Сюда вы можете поместить скрипты от Google, Facebook, Twitter, "
+"Add This и пр., которые будут загружаться с верхней частью(Header)"
+
+#: ../inc/panel/theme-options.php:1326
+msgid "Code to display on Footer"
+msgstr "Код для отображения в нижней части(Footer)"
+
+#: ../inc/panel/theme-options.php:1329
+msgid ""
+"Note: Here you can put scripts from Google, Facebook, Twitter, Add This etc. "
+"which will load on footer"
+msgstr ""
+"Пояснение: Сюда вы можете поместить скрипты от Google, Facebook, Twitter, "
+"Add This и пр., которые будут загружаться с нижней частью(Footer)"
+
+#: ../inc/template-tags.php:51 ../inc/template-tags.php:112
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#: ../inc/template-tags.php:55 ../inc/template-tags.php:116
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: ../inc/template-tags.php:56 ../inc/template-tags.php:117
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr; "
+
+#: ../inc/template-tags.php:68 ../inc/template-tags.php:129
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущие записи"
+
+#: ../inc/template-tags.php:72 ../inc/template-tags.php:133
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Следующие записи <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../inc/template-tags.php:164
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+#: ../inc/template-tags.php:164
+msgid "(Edit)"
+msgstr "(Изменить)"
+
+#: ../inc/template-tags.php:179
+msgid "Post author"
+msgstr "Автор записи"
+
+#. translators: 1: date, 2: time
+#: ../inc/template-tags.php:185
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: ../inc/template-tags.php:191
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает подтверждения."
+
+#: ../inc/template-tags.php:200
+msgid "Reply"
+msgstr "Ответить"
+
+#: ../inc/template-tags.php:229 ../inc/template-tags.php:302
+#, php-format
+msgid "View all posts by %s"
+msgstr "Показать все записи %s"
+
+#: ../inc/template-tags.php:234
+#, php-format
+msgid ""
+"<span class=\"on-date\">Posted on %1$s</span><span class=\"by-author\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"on-date\">Запись опубликована %1$s</span><span class=\"by-"
+"author\"> автором %2$s</span>"
+
+#: ../inc/template-tags.php:256 ../inc/template-tags.php:259
+#: ../inc/template-tags.php:288 ../inc/template-tags.php:291
+msgid ", "
+msgstr ", "
+
+#: ../inc/template-tags.php:264
+#, php-format
+msgid ""
+"<span class=\"in-category\">Posted in %1$s</span><span class=\"sep\"> | </"
+"span><span class=\"in-tag\">Tagged %2$s</span>"
+msgstr ""
+"<span class=\"in-category\">Запись опубликована %1$s</span><span class=\"sep"
+"\"> | </span><span class=\"in-tag\">с метками %2$s</span>"
+
+#: ../inc/template-tags.php:266
+#, php-format
+msgid "<span class=\"in-category\">Posted in %1$s</span>"
+msgstr "<span class=\"in-category\">Запись опубликована %1$s</span>"
+
+#: ../inc/template-tags.php:308
+#, php-format
+msgid ""
+"<span class=\"on-date\">Posted on %3$s</span><span class=\"in-category\"> "
+"under %1$s</span><span class=\"sep\"> | </span><span class=\"in-tag\">Tagged "
+"%2$s</span><span class=\"sep\"> | </span><span class=\"by-author\"> By %4$s</"
+"span>"
+msgstr ""
+"<span class=\"on-date\">Опубликовано %3$s</span><span class=\"in-category\"> "
+"в %1$s</span><span class=\"sep\"> | </span><span class=\"in-tag\">с метками "
+"%2$s</span><span class=\"sep\"> | </span><span class=\"by-author\"> автором "
+"%4$s</span>"
+
+#: ../inc/template-tags.php:310
+#, php-format
+msgid ""
+"<span class=\"on-date\">Posted on %3$s</span><span class=\"in-category\"> "
+"under in %1$s</span><span class=\"sep\"> | </span><span class=\"by-author\"> "
+"By %4$s</span>."
+msgstr ""
+"<span class=\"on-date\">Опубликовано %3$s</span><span class=\"in-category\"> "
+"в %1$s<span><span class=\"sep\"> | </span><span class=\"by-author\"> автором "
+"%4$s</span>."
+
+#: ../inc/template-tags.php:312
+#, php-format
+msgid ""
+"<span class=\"on-date\">Posted on %3$s</span><span class=\"sep\"> | </"
+"span><span class=\"by-author\"> By %4$s</span>."
+msgstr ""
+"<span class=\"on-date\">Опубликовано %3$s</span><span class=\"sep\"> | </"
+"span><span class=\"by-author\"> автором %4$s</span>."
+
+#: ../no-results.php:15
+msgid "Nothing Found"
+msgstr "Ничего не найдено."
+
+#: ../no-results.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: ../no-results.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые "
+"слова."
+
+#: ../no-results.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по "
+"сайту."
+
+#: ../search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: ../searchform.php:17 ../searchform.php:19
+msgid "Search"
+msgstr "Поиск"
+
+#~ msgid "Page %s"
+#~ msgstr "Страница %s"
+
+#~ msgid ""
+#~ "Use this widget to add Social Icons from Social Icons Settings as a "
+#~ "widget. "
+#~ msgstr ""
+#~ "Используйте этот виджет для добавления социальных иконок из настроек "
+#~ "социальных иконок, в качестве виджета. "
+
+#~ msgid "1. Catch Kathmandu: Social"
+#~ msgstr "1. Catch Kathmandu: Social"
+
+#~ msgid "More Theme Options &raquo;"
+#~ msgstr "More Theme Options &raquo;"
+
+#~ msgid "Homepage Settings"
+#~ msgstr "Настройки домашней страницы"
+
+#~ msgid "Light"
+#~ msgstr "Светлый"
+
+#~ msgid "Catch Kathmandu Pro"
+#~ msgstr "Catch Kathmandu Pro"
+
+#~ msgid "Powered by"
+#~ msgstr "Автор"
+
+#~ msgid "Theme"
+#~ msgstr "Тема"
+
+#~ msgid "Upload Fav Icon"
+#~ msgstr "Upload Fav Icon"
+
+#~ msgid "Featured Page Slider Options"
+#~ msgstr "Featured Page Slider Options"
+
+#~ msgid "Featured Page Slider #%s"
+#~ msgstr "Featured Page Slider #%s"
+
+#~ msgid ""
+#~ "Note: Here You can put your Page IDs which displays on Homepage as slider."
+#~ msgstr ""
+#~ "Note: Here You can put your Page IDs which displays on Homepage as slider."
+
+#~ msgid "Featured Image Slider Options"
+#~ msgstr "Featured Image Slider Options"
+
+#~ msgid "Featured Image Slider #%s"
+#~ msgstr "Featured Image Slider #%s"
+
+#~ msgid "Upload"
+#~ msgstr "Upload"
+
+#~ msgid "%s on Facebook"
+#~ msgstr "%s на Facebook"
+
+#~ msgid "%s on Twitter"
+#~ msgstr "%s в Twitter"
+
+#~ msgid "%s on Google+"
+#~ msgstr "%s в Google+"
+
+#~ msgid "%s on Linkedin"
+#~ msgstr "%s на Linkedin"
+
+#~ msgid "%s on Pinterest"
+#~ msgstr "%s на Pinterest"
+
+#~ msgid "%s on Vimeo"
+#~ msgstr "%s на Vimeo"
+
+#~ msgid "%s on Slideshare"
+#~ msgstr "%s на Slideshare"
+
+#~ msgid "%s on Foursquare"
+#~ msgstr "%s на Foursquare"
+
+#~ msgid "%s on Flickr"
+#~ msgstr "%s в Flickr"
+
+#~ msgid "%s on Tumblr"
+#~ msgstr "%s на Tumblr"
+
+#~ msgid "%s on deviantART"
+#~ msgstr "%s на deviantART"
+
+#~ msgid "%s on Dribbble"
+#~ msgstr "%s на Dribbble"
+
+#~ msgid "%s on MySpace"
+#~ msgstr "%s на MySpace"
+
+#~ msgid "%s on WordPress"
+#~ msgstr "%s на WordPress"
+
+#~ msgid "%s on RSS"
+#~ msgstr "%s в RSS"
+
+#~ msgid "%s on Delicious"
+#~ msgstr "%s на Delicious"
+
+#~ msgid "%s on Last.fm"
+#~ msgstr "%s на Last.fm"
+
+#~ msgid "%s on Instagram"
+#~ msgstr "%s в Instagram"
+
+#~ msgid "%s on GitHub"
+#~ msgstr "%s в GitHub"
+
+#~ msgid "%s on Vkontakte"
+#~ msgstr "%s во Vkontakte"
+
+#~ msgid "%s on My World"
+#~ msgstr "%s в My World"
+
+#~ msgid "%s on Odnoklassniki"
+#~ msgstr "%s в Odnoklassniki"
+
+#~ msgid "%s on Goodreads"
+#~ msgstr "%s в Goodreads"
+
+#~ msgid "%s on Skype"
+#~ msgstr "%s в Skype"
+
+#~ msgid "%s on Soundcloud"
+#~ msgstr "%s на Soundcloud"
+
+#~ msgid "%s on Email"
+#~ msgstr "%s на Email"
+
+#~ msgid "%s on Xing"
+#~ msgstr "%s на Xing"
+
+#~ msgid "http://facebook.com/catchthemes"
+#~ msgstr "http://facebook.com/catchthemes"
+
+#~ msgid "https://twitter.com/catchthemes"
+#~ msgstr "https://twitter.com/catchthemes"
